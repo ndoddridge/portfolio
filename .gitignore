@@ -19,6 +19,7 @@
 
 # production
 /build
+!public/games/**
 
 # misc
 .DS_Store
