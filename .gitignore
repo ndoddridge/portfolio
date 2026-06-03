@@ -18,8 +18,9 @@
 /out/
 
 # production
-/build/
-!public/games/**
+/build
+!/public/games
+!/public/games/**
 
 # misc
 .DS_Store
